@@ -1,0 +1,10 @@
+langchain
+pypdf
+chromadb
+umap-learn
+numpy
+tqdm
+matplotlib
+openai
+torch
+python-dotenv
